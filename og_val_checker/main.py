@@ -40,5 +40,6 @@ def main():
     else:
         print("Воркаем дальше!")
 
+
 if __name__ == "__main__":
     main()
