@@ -20,8 +20,8 @@
 
 Адреса в таблице должны выглядеть в формате: 
 
-0gvaloper1yz306wwv24d8m2zg8yujrssxs7cp2483fz0hcr
-0gvaloper1lvwsk7dnz567dmht9zw2d5g4dx4gj5qs79ffy4
+- 0gvaloper1yz306wwv24d8m2zg8yujrssxs7cp2483fz0hcr
+- 0gvaloper1lvwsk7dnz567dmht9zw2d5g4dx4gj5qs79ffy4
 
 *Пример взят из официальньного списка валидаторов №3*
 
