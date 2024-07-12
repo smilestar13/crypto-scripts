@@ -8,7 +8,7 @@
 
 Мы пойдем универсальным путем и установим скрипт на рабочий стол, в случае с MacOS:
 
-```cd ~ && cd ~/Desktop && git pull https://github.com/smilestar13/crypto-scripts.git```
+```cd ~ && cd ~/Desktop && git clone https://github.com/smilestar13/crypto-scripts.git```
 
 Если вы хотите установить в другое место, замените /Desktop на необходимую директорию. Правильный путь к директории можно узнать командой ```pwd```.
 
